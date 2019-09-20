@@ -26,13 +26,11 @@ Project role: Python Developer
 Project description: Thai massage business card page with feedback form
 https://qroman.pythonanywhere.com/
 Frontend and backend develop, deploy project.
-
 July 2019 – Trainee, Educational Center of HTP
 Project role: Frontend Developer
 Project description: restaurant reception site
 http://375295623085.pythonanywhere.com/
 Frontend develop site on HTML, CSS, JS, deploy project.
-
 July 2019 – Trainee, Educational Center of HTP
 Project role: Python Developer
 Project description: site form adding workers and tools
