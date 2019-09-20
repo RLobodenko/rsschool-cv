@@ -48,4 +48,5 @@ Description: HTML, CSS, Bootstrap and JQuery
 
 2011-2017 – Belarusian National Technical University
 Specialization: Heat and gas supply, ventilation and  air protection
+
 8. English Proficiency:	 B1 (I can read documentation in English language with google translator)
