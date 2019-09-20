@@ -41,11 +41,9 @@ Frontend and backend develop.
 7.2019 – Educational Center of HTP
 Course: Python Development
 Description: Python syntax, Django, OOP, introduction to  work with git, PIP and using libraries, introduction to testing, learned to deploy projects.
-
 2019 – Educational Center of HTP
 Course: Bases of Web technologies
 Description: HTML, CSS, Bootstrap and JQuery
-
 2011-2017 – Belarusian National Technical University
 Specialization: Heat and gas supply, ventilation and  air protection
 
